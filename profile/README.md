@@ -1,4 +1,4 @@
-# Project 'unsolved' by Team 'adobby' Docs
+# Project 'unsolved' by Team 'adobby'
 ### Soongsil University School of Software Software Contest Exhibiton
 
 #### Information
